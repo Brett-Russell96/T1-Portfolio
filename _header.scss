@@ -1,0 +1,21 @@
+@import "./styles/defaults/colors";
+@import "./sty;es/defaults/breakpoints";
+@import "./utils";
+
+header{
+    @include background-stuff();
+  
+   
+    .logo-name{
+        .name{
+            margin-bottom: 0;
+        }
+
+    }
+    #nav-items{
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        width: 50%;
+    }
+}

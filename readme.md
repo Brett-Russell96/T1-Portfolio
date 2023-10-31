@@ -28,3 +28,6 @@ Header is the component at the top of the website. It contains logo, name and na
    </header> 
 
 ```
+
+### Footer
+footer has social media links and contact info.
